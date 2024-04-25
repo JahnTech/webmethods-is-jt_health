@@ -38,7 +38,7 @@ The table below contains an overview of the available functionality.
 | Funtionality | REST | Underlying service |
 |--------------| ---- | ------------------ |
 | All adapter connections |  `/adapterConnections` | `jt.health.pub.is.art:getAdapterConnections` |
-| Specific adapter connection |  `/adapterConnections/<NAMESAPCE>` | `jt.health.pub.is.art:getAdapterConnectionByAlias` |
+| Specific adapter connection |  `/adapterConnections/<CONNECTION_ALIAS>` | `jt.health.pub.is.art:getAdapterConnectionByAlias` |
 
 As usual the REST resources need to be called with `/restv2` prepended. So if you
 want to see all of the ART adapter connections on your local system,
