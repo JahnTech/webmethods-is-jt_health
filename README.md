@@ -48,8 +48,10 @@ you would use `GET http://localhost:5555/restv2/adapterConnections`.
 ______________________
 This tool is provided as-is and without warranty or support. Users are free
 to use, fork and modify it, subject to the license agreement.
-While JahnTech, Inh. Christoph Jahn welcomes contributions, we cannot guarantee
+While JahnTech GmbH welcomes contributions, we cannot guarantee
 to include every contribution in the master project.
 
 Contact us at [JahnTech](mailto:info@jahntech.com?subject=Github/JT_Health)
 if you have any questions.
+
+webMethods® is a registered trademark of International Business Machines Corporation (“IBM”).
