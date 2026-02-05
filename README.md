@@ -44,6 +44,10 @@ As usual the REST resources need to be called with `/restv2` prepended. So if yo
 want to see all of the ART adapter connections on your local system,
 you would use `GET http://localhost:5555/restv2/adapterConnections`.
 
+## Installation from Source
+
+Details can be found at https://github.com/JahnTech/webmethods-is-pkg-installation
+
 
 ______________________
 This tool is provided as-is and without warranty or support. Users are free
